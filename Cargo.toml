@@ -1,5 +1,5 @@
 [package]
-name = "telegraph_rs"
+name = "libtelegraph_rs"
 version = "0.1.1"
 edition = "2021"
 authors = ["Junaid Rahman <junaid.cloud2@gmail.com>"]

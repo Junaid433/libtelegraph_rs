@@ -19,7 +19,7 @@ Add the following to your `Cargo.toml` file:
 
 ```toml
 [dependencies]
-telegraph_rs = "0.1.0"
+libtelegraph_rs = "0.1.0"
 ```
 
 ## Usage
