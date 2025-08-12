@@ -1,6 +1,6 @@
 # Telegraph.rs
 
-[![Crates.io](https://img.shields.io/crates/v/telegraph_rs.svg)](https://crates.io/crates/telegraph_rs)
+[![Crates.io](https://img.shields.io/crates/v/telegraph_rs.svg)](https://crates.io/crates/libtelegraph_rs)
 [![Docs.rs](https://docs.rs/telegraph_rs/badge.svg)](https://docs.rs/telegraph_rs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
